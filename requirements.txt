@@ -1,3 +1,5 @@
 requests~=2.25.1
-
 PyYAML~=5.4.1
+generateDS ~= 2.37.16
+virtualenv~=20.4.2
+tox~=3.22.0
